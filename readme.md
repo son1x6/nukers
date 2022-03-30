@@ -18,7 +18,7 @@ apt update && apt upgrade
 
 pkg install python git
 
-git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
+git clone https://github.com/son1x6/nukers
 
 cd Discord-Nuke-Bot
 
@@ -34,7 +34,7 @@ python nuke-bot.py
 ```
 ## Linux / Windows
 ```console
-git clone https://github.com/Sigma-cc/Discord-Nuke-Bot
+git clone https://github.com/son1x6/nukers
 
 cd Discord-Nuke-Bot
 
