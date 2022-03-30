@@ -20,27 +20,27 @@ pkg install python git
 
 git clone https://github.com/son1x6/nukers
 
-cd Discord-Nuke-Bot
+cd nukers
 
 python -m pip install -r requirements.txt
 
-python nuke-bot.py
+python son1x-nuke.py
 ```
 **[Subsequent launches]**
 ```console
-cd Discord-Nuke-Bot
+cd nukers
 
-python nuke-bot.py
+python son1x-nuke.py
 ```
 ## Linux / Windows
 ```console
 git clone https://github.com/son1x6/nukers
 
-cd Discord-Nuke-Bot
+cd nukers
 
 python -m pip install -r requirements.txt
 
-python3 nuke-bot.py
+python3 son1x-nuke.py
 ```
 
 ***
